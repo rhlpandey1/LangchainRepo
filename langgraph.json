@@ -1,0 +1,6 @@
+{
+    "graphs": {
+        "rag_agent": "./rag/langgraphDemo.ts:graph"
+    },
+    "env": ".env"
+}
